@@ -17,12 +17,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)
-[![CNB](https://img.shields.io/badge/CNB-mirror-ff6200?style=flat-square&logo=cloudnativebuild)](https://cnb.cool/HMCL-dev/HMCL)
-[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?style=flat-square&logo=gitee)](https://gitee.com/huanghongxun/HMCL)
-
-[![QQ Group](https://img.shields.io/badge/QQ-gray?style=flat-square&logo=qq&logoColor=ffffff)](https://docs.hmcl.net/groups.html)
-[![Discord](https://img.shields.io/badge/Discord-gray?style=flat-square&logo=discord)](https://discord.gg/jVvC7HfM6U)
-[![Bilibili](https://img.shields.io/badge/Bilibili-gray?style=flat-square&logo=bilibili)](https://space.bilibili.com/20314891)
 
 </div>
 <!-- #END COPY -->
@@ -40,28 +34,6 @@ HMCL 是一款开源、跨平台的 Minecraft 启动器，支持模组管理、�
 HMCL 有着强大的跨平台能力。它不仅支持 Windows、Linux、macOS、FreeBSD 等常见的操作系统，同时也支持 x86、ARM、RISC-V、MIPS、LoongArch 等不同的 CPU 架构。你可以使用 HMCL 在不同平台上轻松地游玩 Minecraft。
 
 如果你想要了解 HMCL 对不同平台的支持程度，请参见 [此表格](PLATFORM_zh_Hans.md)。
-
-## 下载
-
-你可以从这些渠道下载 HMCL：
-
-- [HMCL 官方网站](https://hmcl.huangyuhui.net/download)
-- [GitHub Release](https://github.com/HMCL-dev/HMCL/releases)
-- [CNB Release](https://cnb.cool/HMCL-dev/HMCL/-/releases)
-
-## 参与贡献
-
-HMCL 是一个社区驱动的开源项目，欢迎任何人参与贡献代码或提出建议。
-
-你可以通过以下方式参与 HMCL 的开发：
-
-- 通过在 GitHub 上[创建 Issue](https://github.com/HMCL-dev/HMCL/issues/new/choose) 来报告 Bug 或提出功能请求。
-- 通过在 GitHub 上 Fork 仓库并[提交 Pull Request](https://github.com/HMCL-dev/HMCL/compare) 来贡献代码。
-
-在参与贡献前，请阅读[贡献指南](./Contributing_zh_Hans.md)，其中包含以下内容：
-
-- [如何从源码构建并运行 HMCL](./Contributing_zh_Hans.md#构建-hmcl)
-- [通过调试选项调整 HMCL 的行为](./Contributing_zh_Hans.md#调试选项)
 
 ## 贡献者
 
