@@ -1,4 +1,9 @@
 <!-- #BEGIN COPY -->
+<!-- #PROPERTY NAME=WARNING -->
+> **警告：** 这是一个去除更新检查和下载限制的HMCL社区版本，本项目与HMCL官方无任何关系，请按照当地法律合理合规使用。
+<!-- #END COPY -->
+
+<!-- #BEGIN COPY -->
 <!-- #PROPERTY NAME=TITLE -->
 <div align="center">
     <img src="/HMCL/src/main/resources/assets/img/icon@8x.png" alt="HMCL Logo" width="64"/>
